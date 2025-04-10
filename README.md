@@ -7,13 +7,13 @@ Useful for turning off expensive animations or compositing that cause FPS to lag
 ## Installation
 
 ```bash
-npm install fps-meter
+npm install @wesbos/fps-meter
 ```
 
 ## Usage
 
 ```typescript
-import FPSMeter from "fps-meter";
+import FPSMeter from "@wesbos/fps-meter";
 
 // Create a new FPS meter instance
 const fpsMeter = new FPSMeter();
