@@ -1,6 +1,6 @@
 {
   "name": "@wesbos/fps-meter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple FPS meter that measures average FPS and runs a callback when it dips below a certain level.",
   "main": "dist/index.js",
   "type": "module",
