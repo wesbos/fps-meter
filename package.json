@@ -1,0 +1,26 @@
+{
+  "name": "fps-meter",
+  "version": "1.0.0",
+  "description": "A simple FPS meter that measures and reports frame rates in web applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fps",
+    "performance",
+    "frame-rate",
+    "monitoring"
+  ],
+  "author": "wesbos",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
